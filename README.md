@@ -1,7 +1,7 @@
 # azure cloud
 
-# TO DO LIST
-1 creation d'une vm 
+## TO DO LIST
+### 1 creation d'une vm 
 
 
 
@@ -22,7 +22,7 @@ si on appuie sur l'une des vm cree on tombe sur cette interface ou on peut faire
 
 <img width="931" alt="Capture d'écran 2023-12-22 110038" src="https://github.com/taiebrafik1998/azure/assets/84631421/57a7d77d-cc02-4b98-a0c5-16333c2f0570">
 
-2 cree une alerte 
+### 2 cree une alerte 
 
 sachant que tout est payant sur le cloud ça sera inteligent de faire des alerte budgetaire pour qu'on depense pas tous nous credit azure (les gerer inteligement )
 et pour parvenir on va aller sur cost management comme le montre l'image suivante
@@ -47,7 +47,7 @@ apres avoir remplie les champ on appuie sur create on attend un petit peux et vo
 
 
 
-3 APP services
+### 3 APP services
 dans la barre de recherche on ecrit app service puis on selection app service
 sur la page app service on appuie sur le button creer
 <img width="928" alt="Capture d'écran 2023-12-22 120750" src="https://github.com/taiebrafik1998/azure/assets/84631421/f40424da-6af5-4db1-a994-3b8859c6a020">
