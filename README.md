@@ -2,6 +2,9 @@
 
 # TO DO LIST
 1 creation d'une vm \n
+
+
+
 faut se rendre sur azure cloud et s'authentifier
 puis cliquer sur ressource apres ça on clique sur machine virtuelle
 
