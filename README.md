@@ -82,5 +82,14 @@ Accédez à l’application déployée à l’aide de votre navigateur web à l�
 
 L’exemple de code Python exécute un conteneur Linux dans App Service avec une image intégrée.
 
+### 4 cls
+Set Up Blob Storage
+pour ça nous devons d'abord creer a storage account
+<img width="930" alt="Capture d'écran 2023-12-22 150443" src="https://github.com/taiebrafik1998/azure/assets/84631421/9026aa35-2885-4946-8a19-32bc06d1bc35">
+
+et on lance le powershell
+
+<img width="934" alt="Capture d'écran 2023-12-22 150949" src="https://github.com/taiebrafik1998/azure/assets/84631421/2ad3292b-e078-4cb9-9736-c638de134009">
+
 
 
