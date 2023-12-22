@@ -1,4 +1,5 @@
 # azure cloud
 
 # TO DO LIST
-# creation d'une vm
+1 creation d'une vm
+
