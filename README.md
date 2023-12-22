@@ -62,7 +62,15 @@ pour deployer une application il nous faut une app de ce fait j'ai telecharger u
 on va cree un fichier zip de l'app qu'on vas deployer
 <img width="960" alt="Capture d'écran 2023-12-21 131403" src="https://github.com/taiebrafik1998/azure/assets/84631421/e7e0d3b3-15d1-4ec8-9d49-690fc7a49330">
 
+Une fois que nous disposons d’un fichier ZIP, le fichier peut être chargé sur Azure à l’aide d’Azure CLI ou d’un client HTTP tel que Postman ou cURL.dans notre cas on a optez pour azurecli 
 
+```
+# Change these values to the ones used to create the App Service.
+RESOURCE_GROUP_NAME='msdocs-python-webapp-quickstart'
+APP_SERVICE_NAME='msdocs-python-webapp-quickstart-123'
+
+az webapp deploy --name $APP_SERVICE_NAME --resource-group $RESOURCE_GROUP_NAME --src-path <zip-file-path>
+```
 
 
 
