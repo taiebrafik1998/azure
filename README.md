@@ -159,4 +159,11 @@ une fois les configuration terminer on cliquer sur le button create et on attend
 <img width="931" alt="Capture d'écran 2023-12-22 201328" src="https://github.com/taiebrafik1998/azure/assets/84631421/5d447ee5-8569-4c00-a694-57e5ee9e6b00">
 
 ### 6 faire une azure fonction 
-#### azure function
+ azure function est une solution serverless pour ecrire du code avecelle pas besoin de se preocuper des infrastructure maintanance et deploiment des application avec azure vous focaliser sur ce qui as de mieux pour vous (le code )
+ ```
+py -m venv .venv
+func init --python
+func new --name HttpExample --template "HTTP trigger" --authlevel "anonymous"
+-m pip install -r requirements.txt
+
+```
