@@ -72,5 +72,15 @@ APP_SERVICE_NAME='msdocs-python-webapp-quickstart-123'
 az webapp deploy --name $APP_SERVICE_NAME --resource-group $RESOURCE_GROUP_NAME --src-path <zip-file-path> #chemin vers zip file creer
 ```
 
+Accédez à l’application déployée à l’aide de votre navigateur web à l’URL http://<app-name>.azurewebsites.net. Si vous voyez s’afficher une page d’application par défaut, attendez une minute, puis actualisez le navigateur.
+
+<img width="960" alt="Capture d'écran 2023-12-21 140744" src="https://github.com/taiebrafik1998/azure/assets/84631421/e3b094a9-5630-434b-8551-6efcb33fc62e">
+
+
+<img width="960" alt="Capture d'écran 2023-12-21 141244" src="https://github.com/taiebrafik1998/azure/assets/84631421/8af5079f-9067-4725-b24d-bc473f20aafe">
+
+
+L’exemple de code Python exécute un conteneur Linux dans App Service avec une image intégrée.
+
 
 
