@@ -25,3 +25,6 @@ si on appuie sur l'une des vm cree on tombe sur cette interface ou on peut faire
 2 cree une alerte 
 
 sachant que tout est payant sur le cloud ça sera inteligent de faire des alerte budgetaire pour qu'on depense pas tous nous credit azure (les gerer inteligement )
+
+![alertmanagement](https://github.com/taiebrafik1998/azure/assets/84631421/8c1cc5bf-6d17-4f61-93cb-7e46ce4ba288)
+
