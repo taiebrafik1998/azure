@@ -92,8 +92,11 @@ et on lance le powershell
 <img width="934" alt="Capture d'écran 2023-12-22 150949" src="https://github.com/taiebrafik1998/azure/assets/84631421/2ad3292b-e078-4cb9-9736-c638de134009">
 
 
+
+
 <img width="927" alt="Capture d'écran 2023-12-22 182708" src="https://github.com/taiebrafik1998/azure/assets/84631421/f2ccd0ea-ffef-4e33-8fe0-919d2b90a14c">
 
 
 
+<img width="936" alt="Capture d'écran 2023-12-22 185255" src="https://github.com/taiebrafik1998/azure/assets/84631421/c6d7eea6-b03a-44b1-ab8a-ad3d0a623afc">
 
