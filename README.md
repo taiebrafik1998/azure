@@ -42,7 +42,8 @@ On remplies les champs de cree budget et set l'alert
 
 <img width="936" alt="Capture d'écran 2023-12-22 115328" src="https://github.com/taiebrafik1998/azure/assets/84631421/9dd2e86a-e3ca-4353-b028-42c23cb3162d">
 
-apres avoir remplie les champ on appuie sur create 
+apres avoir remplie les champ on appuie sur create on attend un petit peux et voila notre alerte budgetaire est cree :D
+<img width="912" alt="Capture d'écran 2023-12-21 103431" src="https://github.com/taiebrafik1998/azure/assets/84631421/7ab7775b-9521-4f3e-8112-96e8a00563f7">
 
 
 
