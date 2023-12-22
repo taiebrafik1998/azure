@@ -54,7 +54,15 @@ sur la page app service on appuie sur le button creer
 apres avoir cliquer sur create une nouvelle page s'affiche qui nous permettra de configurer notre application 
 <img width="918" alt="Capture d'écran 2023-12-21 115150" src="https://github.com/taiebrafik1998/azure/assets/84631421/e3f706c9-f721-43d6-bde3-761b6e54df36">
 qu'on a terminer de configurer les differents champ de notre serviceapp on appuie sur create pour cree notre service app
-une fois terminer notre ressource est pret au deploiment 
+une fois terminer notre ressource est pret au deploiment (pour le pricing planing j'ai utiliser le plan basic b1)
 <img width="916" alt="Capture d'écran 2023-12-21 115324" src="https://github.com/taiebrafik1998/azure/assets/84631421/311370b8-5295-4611-a2e7-b2c15ead3d91">
+pour deployer une application il nous faut une app de ce fait j'ai telecharger un use case de microsoft ecrit en python pour le lancer comme un microservice
+
+<img width="881" alt="Capture d'écran 2023-12-21 120633" src="https://github.com/taiebrafik1998/azure/assets/84631421/d1e5f1d6-1049-4811-8dcc-74558fb6e91b">
+on va cree un fichier zip de l'app qu'on vas deployer
+<img width="960" alt="Capture d'écran 2023-12-21 131403" src="https://github.com/taiebrafik1998/azure/assets/84631421/e7e0d3b3-15d1-4ec8-9d49-690fc7a49330">
+
+
+
 
 
