@@ -37,3 +37,12 @@ apres ça on appuis sur add pour cree notre alerte
 
 <img width="928" alt="addbuget" src="https://github.com/taiebrafik1998/azure/assets/84631421/4e95ada0-fe87-4055-80cc-4fe5c75c85d0">
 
+On remplies les champs de cree budget et set l'alert
+<img width="932" alt="Capture d'écran 2023-12-22 115242" src="https://github.com/taiebrafik1998/azure/assets/84631421/12ca8669-b839-4ddc-ad98-9aab365d48ef">
+
+<img width="936" alt="Capture d'écran 2023-12-22 115328" src="https://github.com/taiebrafik1998/azure/assets/84631421/9dd2e86a-e3ca-4353-b028-42c23cb3162d">
+
+apres avoir remplie les champ on appuie sur create 
+
+
+
