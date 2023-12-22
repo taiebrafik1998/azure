@@ -168,7 +168,7 @@ func new --name HttpExample --template "HTTP trigger" --authlevel "anonymous"
 -m pip install -r requirements.txt
 
 ```
-
+_____________________________________________________________________________________________________________________________________________________________________________
 ```
 az login # pour le login
 az group create --name AzureFunctionsQuickstart-rg --location eastus  # pour cree un groupe de ressource
