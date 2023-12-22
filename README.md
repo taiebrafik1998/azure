@@ -42,8 +42,19 @@ On remplies les champs de cree budget et set l'alert
 
 <img width="936" alt="Capture d'écran 2023-12-22 115328" src="https://github.com/taiebrafik1998/azure/assets/84631421/9dd2e86a-e3ca-4353-b028-42c23cb3162d">
 
-apres avoir remplie les champ on appuie sur create on attend un petit peux et voila notre alerte budgetaire est cree :D
+apres avoir remplie les champ on appuie sur create on attend un petit peux et voila notre alerte budgetaire est creer
 <img width="912" alt="Capture d'écran 2023-12-21 103431" src="https://github.com/taiebrafik1998/azure/assets/84631421/7ab7775b-9521-4f3e-8112-96e8a00563f7">
 
+
+
+3 APP services
+dans la barre de recherche on ecrit app service puis on selection app service
+sur la page app service on appuie sur le button creer
+<img width="928" alt="Capture d'écran 2023-12-22 120750" src="https://github.com/taiebrafik1998/azure/assets/84631421/f40424da-6af5-4db1-a994-3b8859c6a020">
+apres avoir cliquer sur create une nouvelle page s'affiche qui nous permettra de configurer notre application 
+<img width="918" alt="Capture d'écran 2023-12-21 115150" src="https://github.com/taiebrafik1998/azure/assets/84631421/e3f706c9-f721-43d6-bde3-761b6e54df36">
+qu'on a terminer de configurer les differents champ de notre serviceapp on appuie sur create pour cree notre service app
+une fois terminer notre ressource est pret au deploiment 
+<img width="916" alt="Capture d'écran 2023-12-21 115324" src="https://github.com/taiebrafik1998/azure/assets/84631421/311370b8-5295-4611-a2e7-b2c15ead3d91">
 
 
