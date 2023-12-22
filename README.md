@@ -186,3 +186,15 @@ func azure functionapp publish function-azur # cree fonction azur
 la fonction azure marche meme si elle ne fais pas quelque chose de compliquer
 
 
+
+
+
+
+
+<img width="399" alt="Capture d'écran 2023-12-22 233000" src="https://github.com/taiebrafik1998/azure/assets/84631421/8da2ed05-fea7-4a2c-aaaa-26e56dab39b5">
+
+
+
+
+
+
