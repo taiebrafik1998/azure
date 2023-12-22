@@ -138,7 +138,7 @@ et je vais ajouter une image a mon container
 
 <img width="932" alt="Capture d'écran 2023-12-22 191552" src="https://github.com/taiebrafik1998/azure/assets/84631421/89074d3b-8f04-45de-b031-c7a1390bac90">
 
-### mise en place base donnees SQL
+### 5 mise en place base donnees SQL
 
 dans la page dacuiel on clique sur sql database dans la partie azure service ;
 
@@ -149,7 +149,7 @@ dans la page sql database on clique sur le button create pour cree notre base de
 
 un formulaire a paritra qui va nous permettre de configurer la ressource
 <img width="927" alt="Capture d'écran 2023-12-22 201051" src="https://github.com/taiebrafik1998/azure/assets/84631421/00e5d97e-b89b-4304-996d-e66f90d715d5">
-une fois les configuration terminer on cliquer sur le button create et on attend un petit moment puis notre bd est creer 
+une fois les configuration terminer on cliquer sur le button create et on attend un petit moment puis notre ressource bd est creer 
 
 <img width="936" alt="Capture d'écran 2023-12-22 201244" src="https://github.com/taiebrafik1998/azure/assets/84631421/292f70a2-b6a3-415c-8e72-65241eb306d6">
 
@@ -157,3 +157,6 @@ une fois les configuration terminer on cliquer sur le button create et on attend
 
 
 <img width="931" alt="Capture d'écran 2023-12-22 201328" src="https://github.com/taiebrafik1998/azure/assets/84631421/5d447ee5-8569-4c00-a694-57e5ee9e6b00">
+
+### 6 faire une azure fonction 
+#### azure function
