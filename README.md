@@ -160,6 +160,7 @@ une fois les configuration terminer on cliquer sur le button create et on attend
 
 ### 6 faire une azure fonction 
  azure function est une solution serverless pour ecrire du code avecelle pas besoin de se preocuper des infrastructure maintanance et deploiment des application avec azure vous focaliser sur ce qui as de mieux pour vous (le code )
+ une petite fonction pour faire du azure fonction 
  ```
 py -m venv .venv
 func init --python
@@ -167,3 +168,21 @@ func new --name HttpExample --template "HTTP trigger" --authlevel "anonymous"
 -m pip install -r requirements.txt
 
 ```
+
+```
+az login # pour le login
+az group create --name AzureFunctionsQuickstart-rg --location eastus  # pour cree un groupe de ressource
+az storage account create --name storagefunction1account --location eastus --resource-group AzureFunctionsQuickstart-rg --sku Standard_LRS  #creation storage account
+az functionapp create --resource-group AzureFunctionsQuickstart-rg --consumption-plan-location westeurope --runtime python --runtime-version 3.9 --functions-version 4 --name function-azur --os-type linux --storage-account storagefunction1account
+func azure functionapp publish function-azur # cree fonction azur
+```
+<img width="953" alt="Capture d'écran 2023-12-22 224108" src="https://github.com/taiebrafik1998/azure/assets/84631421/0c7d9fba-5352-45e2-9e5f-245754d69696">
+
+<img width="952" alt="Capture d'écran 2023-12-22 224121" src="https://github.com/taiebrafik1998/azure/assets/84631421/ae210370-ddb0-4646-80f8-a7f44bcae96b">
+
+
+<img width="997" alt="Capture d'écran 2023-12-22 224244" src="https://github.com/taiebrafik1998/azure/assets/84631421/1438d706-70dd-4be3-9b99-b1fca38adb5b">
+
+la fonction azure marche meme si elle ne fais pas quelque chose de compliquer
+
+
