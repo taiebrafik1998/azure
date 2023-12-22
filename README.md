@@ -91,6 +91,7 @@ et on lance le powershell
 
 <img width="934" alt="Capture d'écran 2023-12-22 150949" src="https://github.com/taiebrafik1998/azure/assets/84631421/2ad3292b-e078-4cb9-9736-c638de134009">
 voici template de storage account
+
 ```
 {
     "$schema": "https://schema.management.azure.com/schemas/2019-04-01/deploymentTemplate.json#",
@@ -229,5 +230,6 @@ voici template de storage account
             }
         }
     ]
+
 ```
 
