@@ -33,4 +33,7 @@ apres avoir cliquer sur cost management on vas etre rederiger vers une autre pag
 
 ![budget](https://github.com/taiebrafik1998/azure/assets/84631421/5757fc9b-5c96-4e0c-a4bf-3c25cd2ce362)
 
+apres ça on appuis sur add pour cree notre alerte
+
+<img width="928" alt="addbuget" src="https://github.com/taiebrafik1998/azure/assets/84631421/4e95ada0-fe87-4055-80cc-4fe5c75c85d0">
 
