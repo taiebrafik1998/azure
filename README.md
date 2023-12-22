@@ -65,11 +65,11 @@ on va cree un fichier zip de l'app qu'on vas deployer
 Une fois que nous disposons d’un fichier ZIP, le fichier peut être chargé sur Azure à l’aide d’Azure CLI ou d’un client HTTP tel que Postman ou cURL.dans notre cas on a optez pour azurecli 
 
 ```
-# Change these values to the ones used to create the App Service.
+# Change les valeurs vers celle utiliser lors de la creation de l'app Service.
 RESOURCE_GROUP_NAME='msdocs-python-webapp-quickstart'
 APP_SERVICE_NAME='msdocs-python-webapp-quickstart-123'
 
-az webapp deploy --name $APP_SERVICE_NAME --resource-group $RESOURCE_GROUP_NAME --src-path <zip-file-path>
+az webapp deploy --name $APP_SERVICE_NAME --resource-group $RESOURCE_GROUP_NAME --src-path <zip-file-path> #chemin vers zip file creer
 ```
 
 
